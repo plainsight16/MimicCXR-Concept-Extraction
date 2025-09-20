@@ -1,0 +1,7 @@
+# Core packages
+numpy<2.0
+
+# spaCy + matching compatible language model
+spacy
+streamlit==1.27.2
+medspacy

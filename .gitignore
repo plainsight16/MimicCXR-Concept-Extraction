@@ -1,0 +1,9 @@
+/cxr_venv
+/venv
+*.jsonl
+*.csv
+.DS_Store
+output/
+quickumls_umls_db/
+__pycache__
+.ipynb_checkpoints
