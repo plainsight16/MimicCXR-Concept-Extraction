@@ -49,6 +49,6 @@ def entity_stats(jsonl_path, output_dir):
 
 # Example usage
 entity_stats(
-    "../doccano_input.jsonl",   # Input JSONL file
-    "output"    # Output directory
+    "../data/doccano_input.jsonl",   # Input JSONL file
+    "../data/vocabulary/"    # Output directory
 )

@@ -2,7 +2,7 @@ import csv
 import os
 from collections import defaultdict
 
-# --- Your existing lists ---
+# --- existing lists ---
 FINDINGS = [
     "pneumothorax", "pleural effusion", "effusion", "pulmonary edema", "consolidation",
     "atelectasis", "opacity", "infiltrate", "collapse", "interstitial markings",

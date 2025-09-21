@@ -1,6 +1,6 @@
 import spacy
 import medspacy
-from cxr_target_rules import rules
+from notebooks.cxr_target_rules import rules
 
 nlp = medspacy.load()
 
