@@ -4,8 +4,8 @@ import streamlit as st
 from pathlib import Path
 
 # ----------- Load Data ----------- #
-DATA_PATH = Path("doccano_input.jsonl")
-OUT_PATH = Path("corrected_doccano_output.jsonl")
+DATA_PATH = Path("/data/doccano_input.jsonl")
+OUT_PATH = Path("/data/corrected_doccano_output.jsonl")
 
 
 if "examples" not in st.session_state:
