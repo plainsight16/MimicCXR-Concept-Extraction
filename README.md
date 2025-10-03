@@ -6,7 +6,7 @@ The project combines **semi-automatic labeling** with **multi-task transformer-b
 
 ---
 
-## ✨ Features
+## Features
 
 * **Semi-Automatic Labeling Pipeline**
 
@@ -32,7 +32,7 @@ The project combines **semi-automatic labeling** with **multi-task transformer-b
 
 ---
 
-## 📊 Results
+## Results
 
 * **Concept Classification (NER):** Weighted F1 = **0.939**
 * **Assertion Classification:** Weighted F1 = **0.777**
@@ -44,7 +44,7 @@ These results highlight the effectiveness of Clinical ModernBERT for semantic co
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone this repository and install dependencies:
 
@@ -77,7 +77,7 @@ scikit-learn
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### 1. Data Access
 
@@ -113,7 +113,7 @@ streamlit run visualize_app.py
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── data/                 # Preprocessed reports (not shared)
@@ -130,7 +130,7 @@ streamlit run visualize_app.py
 
 ---
 
-## 📑 Citation
+## Citation
 
 If you use this code or approach in your research, please cite:
 
@@ -142,13 +142,13 @@ University of Lagos, 2025.
 
 ---
 
-## ⚖️ License
+## License
 
 This project is released under the **MIT License**.
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 * Improved handling of negation and uncertainty via **data augmentation** and **specialized modules**
 * Integration with external ontologies (UMLS, RadGraph)
